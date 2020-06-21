@@ -1,0 +1,13 @@
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\bin\Debug\IreneDesktop.exe.config
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\bin\Debug\IreneDesktop.exe
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\bin\Debug\IreneDesktop.pdb
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.Properties.Resources.resources
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.exe
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.pdb
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.Sacolas.resources
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.IreneLingerie.resources
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.Produtos.resources
+C:\Users\felip\source\repos\IreneDesktop\IreneDesktop\obj\Debug\IreneDesktop.Vendedores.resources
