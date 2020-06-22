@@ -96,6 +96,18 @@
     <Compile Include="Sacolas.Designer.cs">
       <DependentUpon>Sacolas.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormsAtualizar\AtualizarProdutos.resx">
+      <DependentUpon>AtualizarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsAtualizar\AtualizarVendedores.resx">
+      <DependentUpon>AtualizarVendedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsCadastrar\CadastrarProdutos.resx">
+      <DependentUpon>CadastrarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsCadastrar\CadastrarVendedores.resx">
+      <DependentUpon>CadastrarVendedores.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="IreneLingerie.resx">
       <DependentUpon>IreneLingerie.cs</DependentUpon>
     </EmbeddedResource>
